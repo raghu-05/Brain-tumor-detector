@@ -1,4 +1,4 @@
-brain tumor model trained 
+brain tumor model trained in google colab
 link to colab notebook : https://colab.research.google.com/drive/1qusOUjFk53fFQlRUaZEAR9rldAqxRTNe#scrollTo=VO2mUcghD49m
 connect to drive
 run this command in colab "model.save('drive/MyDrive/Trained_Models/brain_tumor_detection_model.h5')"
