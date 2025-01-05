@@ -1,0 +1,7 @@
+brain tumor model trained 
+link to colab notebook : https://colab.research.google.com/drive/1qusOUjFk53fFQlRUaZEAR9rldAqxRTNe#scrollTo=VO2mUcghD49m
+connect to drive
+run this command in colab "model.save('drive/MyDrive/Trained_Models/brain_tumor_detection_model.h5')"
+so that brain_tumor_detection_model.h5 is created in drive 
+download the .h5 file from drive which is nearly 53mb
+place that file in this folder 
